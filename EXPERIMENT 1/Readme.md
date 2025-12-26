@@ -24,4 +24,4 @@ class exp_1a {
 ```
 
 # output
-![output of primitive](primitive.png)
+![output of primitive](exp1.png)
