@@ -66,7 +66,7 @@ sc.close();
 ```
 
 # output
-![EXPERIMENT 1 OUTPUT](exp1.png)
+![EXPERIMENT 1 OUTPUT](exp1B.png)
 
 
 
