@@ -24,7 +24,7 @@ class exp_1a {
 ```
 
 # output
-![output of primitive](exp1.png)
+![EXPERIMENT 1 OUTPUT](exp1.png)
 
 
 # EXPERIMENT 1B
@@ -66,7 +66,7 @@ sc.close();
 ```
 
 # output
-![output of quadratic](exp1b.png)
+![EXPERIMENT 1 OUTPUT](exp1b.png)
 
 
 
