@@ -66,7 +66,7 @@ sc.close();
 ```
 
 # output
-![output of primitive](exp1b.png)
+![output of quadratic](exp1.png)
 
 
 
