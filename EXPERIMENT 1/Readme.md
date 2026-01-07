@@ -67,7 +67,8 @@ sc.close();
 ```
 
 # output
-![output of quadratic](exp1B.png)
+![exp1b](https://github.com/user-attachments/assets/1da867ec-ef7a-4c72-a422-33094c7f6151)
+
 
 
 
