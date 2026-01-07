@@ -24,7 +24,8 @@ class exp_1a {
 ```
 
 # output
-![output of primitive](exp1.png)
+![Exp1a](https://github.com/user-attachments/assets/225629a3-38bf-4f2d-8e3b-dabbd57f6161)
+
 
 
 # EXPERIMENT 1B
