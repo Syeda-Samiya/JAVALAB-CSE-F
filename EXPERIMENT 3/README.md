@@ -47,6 +47,7 @@ class Main {
 ```
 
 # Output
+<img width="1920" height="1020" alt="exp3A" src="https://github.com/user-attachments/assets/6a5b9740-6c52-4fee-a498-3d8e092f6abe" />
 
 
 
