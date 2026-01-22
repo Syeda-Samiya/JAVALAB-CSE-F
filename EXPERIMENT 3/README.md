@@ -145,6 +145,7 @@ class Main {
 ```
 
 # Output
+<img width="1920" height="1020" alt="exp3b" src="https://github.com/user-attachments/assets/1ab44d27-ac7e-4279-8e91-b89eee3010bf" />
 
 
 ## EXPERIMENT 3C
@@ -212,4 +213,5 @@ import java.util.Scanner;
 ```
 
 # Output
+<img width="1920" height="1020" alt="exp3c" src="https://github.com/user-attachments/assets/8a74c74a-9fa4-418c-a88e-6331d1b16df7" />
 
