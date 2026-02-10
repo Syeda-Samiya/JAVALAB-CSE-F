@@ -1,7 +1,8 @@
+## EXPERIMENT 4
 ## EXPERIMENT 4a
 # TITLE 4a)To write a JAVA program to implement Single Inheritance.
-```
 ## Person.java
+```
 public class Person {
     String name;
     int age;
@@ -18,9 +19,7 @@ public class Person {
         System.out.println("Age  : " + age);
     }
 }
-
-
-
+```
 ## Employee.java
 public class Employee extends Person {
     double annualSalary;
@@ -44,8 +43,8 @@ public class Employee extends Person {
     }
 }
 
-
 ##  TestEmployee.java
+```
 public class TestEmployee {
     public static void main(String[] args) {
 
@@ -67,8 +66,8 @@ public class TestEmployee {
 
 ## EXPERIMENT 4b
 # TITLE 4b)To write a JAVA program to implement Multiple Inheritance.
-```
 ## Bicycle.java
+```
 public class Bicycle {
     String pedalType;
 
@@ -78,8 +77,9 @@ public class Bicycle {
     }
 }
 
-
+```
 ## Motorbike.java
+
 public class Motorbike extends Bicycle {
     int engineCapacity;
 
@@ -99,8 +99,8 @@ public class ElectricBike extends Motorbike {
     }
 }
 
-
 ## TestVehicle.java
+```
 public class TestVehicle {
     public static void main(String[] args) {
 
@@ -122,8 +122,8 @@ public class TestVehicle {
 
 ## EXPERIMENT 4c
 # TITLE 4c) To Find The Areas Of Different Shapes
-```
 ## Figure.java
+```
 abstract class Figure {
     double dim1;
     double dim2;
@@ -137,8 +137,9 @@ abstract class Figure {
     // Abstract method
     abstract double area();
 }
-
+```
 ## Rectangle.java
+
 class Rectangle extends Figure {
 
     // Constructor
@@ -165,9 +166,8 @@ class Triangle extends Figure {
         return 0.5 * dim1 * dim2;
     }
 }
-
-
 ## TestFigure.java
+```
 public class TestFigure {
     public static void main(String[] args) {
 
