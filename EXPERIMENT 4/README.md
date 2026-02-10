@@ -21,6 +21,7 @@ public class Person {
 }
 ```
 ## Employee.java
+```
 public class Employee extends Person {
     double annualSalary;
     int yearOfJoining;
@@ -42,7 +43,7 @@ public class Employee extends Person {
         System.out.println("National Insurance Number : " + nationalInsuranceNumber);
     }
 }
-
+```
 ##  TestEmployee.java
 ```
 public class TestEmployee {
@@ -64,6 +65,9 @@ public class TestEmployee {
 ![4a](https://github.com/user-attachments/assets/45be18dc-3d73-42c2-be95-9031269a0245)
 
 
+
+
+
 ## EXPERIMENT 4b
 # TITLE 4b)To write a JAVA program to implement Multiple Inheritance.
 ## Bicycle.java
@@ -76,10 +80,9 @@ public class Bicycle {
         System.out.println("Pedal Type : " + pedalType);
     }
 }
-
 ```
 ## Motorbike.java
-
+```
 public class Motorbike extends Bicycle {
     int engineCapacity;
 
@@ -88,8 +91,9 @@ public class Motorbike extends Bicycle {
         System.out.println("Engine Capacity : " + engineCapacity + " cc");
     }
 }
-
+```
 ## ElectricBike.java
+```
 public class ElectricBike extends Motorbike {
     int batteryCapacity;
 
@@ -98,7 +102,7 @@ public class ElectricBike extends Motorbike {
         System.out.println("Battery Capacity : " + batteryCapacity + " Wh");
     }
 }
-
+```
 ## TestVehicle.java
 ```
 public class TestVehicle {
@@ -139,7 +143,7 @@ abstract class Figure {
 }
 ```
 ## Rectangle.java
-
+```
 class Rectangle extends Figure {
 
     // Constructor
@@ -152,8 +156,9 @@ class Rectangle extends Figure {
         return dim1 * dim2;
     }
 }
-
+```
 ## Triangle.java
+```
 class Triangle extends Figure {
 
     // Constructor
@@ -166,6 +171,7 @@ class Triangle extends Figure {
         return 0.5 * dim1 * dim2;
     }
 }
+```
 ## TestFigure.java
 ```
 public class TestFigure {
