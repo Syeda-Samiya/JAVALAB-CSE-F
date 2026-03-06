@@ -1,5 +1,5 @@
 ## ADDITIONAL EXPERIMENT 5
-## TITLE:5) Train Reservation
+## TITLE:5) Cricket Team
 ```
 import java.util.Scanner;
 
