@@ -88,4 +88,5 @@ public class CricketTeam {
 }
 ```
 ## Output
-<img width="1920" height="1080" alt="add 5" src="https://github.com/user-attachments/assets/dc78d75c-5e05-4ff5-881d-ff10357ef522" />
+<img width="1920" height="1080" alt="add 5" src="https://github.com/user-attachments/assets/ac655ba9-ee96-4d6d-9217-368cbe01e890" />
+
